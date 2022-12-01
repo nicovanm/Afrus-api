@@ -1,0 +1,14 @@
+.characterCard {
+    background-color: #AD7D37;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.characterCard > ul {
+    list-style: none;
+}
+
+.active{
+    background-color: #334E31
+}
